@@ -5,7 +5,7 @@ import { StaticImage } from 'gatsby-plugin-image'
 const IndexPage = () => {
   return (
     <Layout pageTitle="Balu 9. szülinapja">
-      <p>Balu és Lobonc</p>
+      <p>Balu és Lobonc aszülinapi virslivel</p>
       <StaticImage
         alt="Balu 9. szülinapja"
         src="../images/Balu.jpg"
